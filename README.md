@@ -12,3 +12,7 @@ Resources related to using deep learning for time series forecasting, classifica
 ### Forecasting
 
 ## Frameworks and Code Examples
+
+## Talks
+
+## Blog Posts
